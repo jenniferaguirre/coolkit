@@ -8,6 +8,9 @@
 body {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #4d5358;
+  background-image: url("../css/password.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .wrapper {
